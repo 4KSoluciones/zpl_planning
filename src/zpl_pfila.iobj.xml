@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZPL_PFILA</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>KYF</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZPL_PFILA</FIELDNM>
+    <TEXTSHORT>% Aplicado Fila</TEXTSHORT>
+    <TEXTLONG>PL: Porcentaje Aplicado Fila</TEXTLONG>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>DEC</DATATP>
+    <INTLEN>000009</INTLEN>
+    <KYFTP>NUM</KYFTP>
+    <AGGRGEN>SUM</AGGRGEN>
+    <AGGREXC>SUM</AGGREXC>
+    <TXTTABFL>0</TXTTABFL>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000023</OUTPUTLEN>
+    <LENG>000017</LENG>
+    <DECIMALS>000003</DECIMALS>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

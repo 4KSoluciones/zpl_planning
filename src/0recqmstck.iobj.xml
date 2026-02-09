@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0RECQMSTCK</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>KYF</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>RECQMSTCK</FIELDNM>
+    <CONTREL>3.0/02</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>CtdEntrStCtrlCal</TEXTSHORT>
+    <TEXTLONG>Cantidad entrada stock en control calidad</TEXTLONG>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>QUAN</DATATP>
+    <INTLEN>000009</INTLEN>
+    <KYFTP>QUA</KYFTP>
+    <AGGRGEN>SUM</AGGRGEN>
+    <AGGREXC>SUM</AGGREXC>
+    <KYFNAV>0</KYFNAV>
+    <UNINM>0BASE_UOM</UNINM>
+    <CONTTIMESTMP>20020211162416</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTABFL>0</TXTTABFL>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000023</OUTPUTLEN>
+    <LENG>000017</LENG>
+    <DECIMALS>000003</DECIMALS>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

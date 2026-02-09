@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZPL_VTAQ</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>KYF</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZPL_VTAQ</FIELDNM>
+    <TEXTSHORT>Qty Precio Unitario</TEXTSHORT>
+    <TEXTLONG>PL: Cantidad Precio Unitario</TEXTLONG>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>QUAN</DATATP>
+    <INTLEN>000009</INTLEN>
+    <KYFTP>QUA</KYFTP>
+    <AGGRGEN>SUM</AGGRGEN>
+    <AGGREXC>SUM</AGGREXC>
+    <UNINM>0UNIT</UNINM>
+    <TXTTABFL>0</TXTTABFL>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000023</OUTPUTLEN>
+    <LENG>000017</LENG>
+    <DECIMALS>000003</DECIMALS>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

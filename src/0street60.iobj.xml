@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0STREET60</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>STREET60</FIELDNM>
+    <CONTREL>7.0/04</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>GCD: Calle</TEXTSHORT>
+    <TEXTLONG>GCD: Calle</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>0STREET60</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000060</INTLEN>
+    <LOWERCASE>X</LOWERCASE>
+    <CONTTIMESTMP>20080319143117</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000060</OUTPUTLEN>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <LENG>000060</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

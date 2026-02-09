@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0BVTSSALITM</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>BVTSSALITM</FIELDNM>
+    <CONTREL>3.2/01</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>Pos.ant.</TEXTSHORT>
+    <TEXTLONG>Posición anterior del documento comercial</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>0BVTSSALITM</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <TXTSHFL>X</TXTSHFL>
+    <DATATP>NUMC</DATATP>
+    <INTLEN>000006</INTLEN>
+    <CONTTIMESTMP>20030123155532</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>V</SIDCONVERT>
+    <SIDMONFL>X</SIDMONFL>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <LENG>000006</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

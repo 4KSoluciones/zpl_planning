@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZCO_STAT</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZCO_STAT</FIELDNM>
+    <TEXTSHORT>Status Imputación CE</TEXTSHORT>
+    <TEXTLONG>Status Imputación CECO</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZCO_STAT</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <NOLANGU>X</NOLANGU>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000001</INTLEN>
+    <CONVEXIT>ALPHA</CONVEXIT>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000001</OUTPUTLEN>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>ZCO_CEBES_DM</INFOAREA>
+    <LENG>000001</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

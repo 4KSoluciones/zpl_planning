@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZDOC_AUTO</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZDOC_AUTO</FIELDNM>
+    <TEXTSHORT>Ind. Docum. Automáti</TEXTSHORT>
+    <TEXTLONG>Ind. Docum. Automático</TEXTLONG>
+    <CHAPRSNT>1</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZDOC_AUTO</CHABASNM>
+    <TXTSHFL>X</TXTSHFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000001</INTLEN>
+    <CHKTAB>/BIC/MZDOC_AUTO</CHKTAB>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>1</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000001</OUTPUTLEN>
+    <CHNTAB>/BIC/PZDOC_AUTO</CHNTAB>
+    <TXTTAB>/BIC/TZDOC_AUTO</TXTTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <LENG>000001</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>M</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

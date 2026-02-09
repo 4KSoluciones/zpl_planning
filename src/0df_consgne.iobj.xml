@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0DF_CONSGNE</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>DF_CONSGNE</FIELDNM>
+    <CONTREL>7.0/02</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>Almacen Destino</TEXTSHORT>
+    <TEXTLONG>Almacen Destino</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>0DF_CONSGNE</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <TXTSHFL>X</TXTSHFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000012</INTLEN>
+    <LOWERCASE>X</LOWERCASE>
+    <CONTTIMESTMP>20050307143600</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000012</OUTPUTLEN>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <LENG>000012</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

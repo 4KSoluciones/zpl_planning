@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZPL_LINK</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZPL_LINK</FIELDNM>
+    <TEXTSHORT>PL: Reporte Planning</TEXTSHORT>
+    <TEXTLONG>PL: Reporte Planning</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZPL_LINK</CHABASNM>
+    <NOLANGU>X</NOLANGU>
+    <TXTSHFL>X</TXTSHFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000005</INTLEN>
+    <CONVEXIT>ALPHA</CONVEXIT>
+    <CHKTAB>/BIC/MZPL_LINK</CHKTAB>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>1</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000005</OUTPUTLEN>
+    <CHNTAB>/BIC/PZPL_LINK</CHNTAB>
+    <TXTTAB>/BIC/TZPL_LINK</TXTTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>ZPL_IA02</INFOAREA>
+    <LENG>000005</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
