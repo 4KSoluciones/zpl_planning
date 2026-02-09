@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZAPLICA</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZAPLICA</FIELDNM>
+    <CHAPRSNT>1</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZAPLICA</CHABASNM>
+    <TXTSHFL>X</TXTSHFL>
+    <TXTLGFL>X</TXTLGFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000060</INTLEN>
+    <CONVEXIT>ALPHA</CONVEXIT>
+    <CHKTAB>/BIC/MZAPLICA</CHKTAB>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>1</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000060</OUTPUTLEN>
+    <CHNTAB>/BIC/PZAPLICA</CHNTAB>
+    <TXTTAB>/BIC/TZAPLICA</TXTTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>ZBI_MM_DM</INFOAREA>
+    <LENG>000060</LENG>
+    <CHATP>GEN</CHATP>
+    <TXTXLFL>X</TXTXLFL>
+    <F4DEFAULT>M</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

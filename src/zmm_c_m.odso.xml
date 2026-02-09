@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ODSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ODSO>
+    <ODSOBJECT>ZMM_C_M</ODSOBJECT>
+    <OBJVERS>A</OBJVERS>
+    <BWAPPL>BW</BWAPPL>
+    <INFOAREA>ZBI_MM_DM</INFOAREA>
+    <BEXFL>X</BEXFL>
+    <AUTOQUALOKFL>X</AUTOQUALOKFL>
+    <READMODE>H</READMODE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <LANGU>S</LANGU>
+    <TEXTLONG>Materiales por Centro</TEXTLONG>
+   </ODSO>
+   <INFOOBJECTS>
+    <BAPI6116IO>
+     <POSIT>0001</POSIT>
+     <KEYFLAG>X</KEYFLAG>
+     <INFOOBJECT>0MATERIAL</INFOOBJECT>
+     <IOBJTP>CHA</IOBJTP>
+    </BAPI6116IO>
+    <BAPI6116IO>
+     <POSIT>0002</POSIT>
+     <INFOOBJECT>0RECORDMODE</INFOOBJECT>
+     <IOBJTP>DPA</IOBJTP>
+    </BAPI6116IO>
+    <BAPI6116IO>
+     <POSIT>0003</POSIT>
+     <INFOOBJECT>0PLANT</INFOOBJECT>
+     <IOBJTP>CHA</IOBJTP>
+    </BAPI6116IO>
+   </INFOOBJECTS>
+   <NAVIGATION>
+    <BAPI6116NA>
+     <ODSOBJECT>ZMM_C_M</ODSOBJECT>
+     <ATRNAVNM>0MATERIAL__0COMP_CODE</ATRNAVNM>
+     <ATTRINM>0COMP_CODE</ATTRINM>
+     <CHANM>0MATERIAL</CHANM>
+    </BAPI6116NA>
+   </NAVIGATION>
+  </asx:values>
+ </asx:abap>
+</abapGit>

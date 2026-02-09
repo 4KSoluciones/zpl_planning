@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0CNSSTCKQTY</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>KYF</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>CNSSTCKQTY</FIELDNM>
+    <CONTREL>1.2/02</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>Cantidad SC</TEXTSHORT>
+    <TEXTLONG>Cantidad stock artículos en consignación</TEXTLONG>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>QUAN</DATATP>
+    <INTLEN>000009</INTLEN>
+    <KYFTP>QUA</KYFTP>
+    <NCUMFL>2</NCUMFL>
+    <AGGRGEN>SUM</AGGRGEN>
+    <AGGREXC>LAS</AGGREXC>
+    <KYFNAV>0</KYFNAV>
+    <UNINM>0BASE_UOM</UNINM>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTABFL>0</TXTTABFL>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000023</OUTPUTLEN>
+    <LENG>000017</LENG>
+    <DECIMALS>000003</DECIMALS>
+   </IOBJ>
+   <COMPOUNDS>
+    <BAPI6108CM>
+     <INFOOBJECT>0CNSSTCKQTY</INFOOBJECT>
+     <OBJVERS>A</OBJVERS>
+     <POSIT>0001</POSIT>
+     <IOBJCMP>0RECCNSSTCK</IOBJCMP>
+     <CMPTP>1</CMPTP>
+    </BAPI6108CM>
+    <BAPI6108CM>
+     <INFOOBJECT>0CNSSTCKQTY</INFOOBJECT>
+     <OBJVERS>A</OBJVERS>
+     <POSIT>0002</POSIT>
+     <IOBJCMP>0ISSCNSSTCK</IOBJCMP>
+     <CMPTP>2</CMPTP>
+    </BAPI6108CM>
+   </COMPOUNDS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

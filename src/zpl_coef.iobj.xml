@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZPL_COEF</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>KYF</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZPL_COEF</FIELDNM>
+    <TEXTSHORT>PL: Gastos sobre Ven</TEXTSHORT>
+    <TEXTLONG>PL: Gastos sobre Ventas</TEXTLONG>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>FLTP</DATATP>
+    <INTLEN>000008</INTLEN>
+    <KYFTP>NUM</KYFTP>
+    <AGGRGEN>SUM</AGGRGEN>
+    <AGGREXC>SUM</AGGREXC>
+    <KYFDECIM>4</KYFDECIM>
+    <TXTTABFL>0</TXTTABFL>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000023</OUTPUTLEN>
+    <LENG>000016</LENG>
+    <DECIMALS>000016</DECIMALS>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

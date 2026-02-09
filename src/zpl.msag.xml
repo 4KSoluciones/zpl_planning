@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZPL</ARBGB>
+    <MASTERLANG>S</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>PL: El usuario &amp;2 se encuentra bloqueado para modifcar &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>PL: Codigo de Status incorrecto para procesar esta Pre Carga.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>PL: No se seleccionaron datos de referencia. Revise parametros.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>PL: Usuario habilitado para editar</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>PL: No se pudo crear la nueva combinación</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Técnico &amp;1 - &amp;2 y Responsable: &amp;3 no válidos! Combinacion: &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>PL: Tipo de Orden ERRONEA: &amp;2 - Combinación: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>PL: Tipo de Orden VACIA &amp;2 - Combinación: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>PL: Orden Inactiva! &amp;2 - Combinación: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>PL: Usuario anterior: &amp;1 - Nuevo: &amp;2 - Combinación: &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>PL: Tipo anteior: &amp;1 - Tipo Nuevo: &amp;2 - Combinación: &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZPL</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>PL: CECO desactivado: &amp;1 - Combinación: &amp;2</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

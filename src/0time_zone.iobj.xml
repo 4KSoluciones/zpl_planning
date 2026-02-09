@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0TIME_ZONE</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>TIME_ZONE</FIELDNM>
+    <CONTREL>3.3/01</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>GCD: Huso horario</TEXTSHORT>
+    <TEXTLONG>GCD: Huso horario de la dirección</TEXTLONG>
+    <CHAPRSNT>1</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>0TIME_ZONE</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <TXTMDFL>X</TXTMDFL>
+    <TXTLGFL>X</TXTLGFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000006</INTLEN>
+    <CONTTIMESTMP>20030721084515</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>1</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+    <TXTTAB>/BI0/TTIME_ZONE</TXTTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <LENG>000006</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

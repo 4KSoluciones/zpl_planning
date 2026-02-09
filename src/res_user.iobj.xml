@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>RES_USER</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/RES_USER</FIELDNM>
+    <OWNER>SAP</OWNER>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>RES_USER</CHABASNM>
+    <TXTSHFL>X</TXTSHFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000012</INTLEN>
+    <CONVEXIT>ALPHA</CONVEXIT>
+    <CHKTAB>/BIC/MRES_USER</CHKTAB>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>1</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000012</OUTPUTLEN>
+    <CHNTAB>/BIC/PRES_USER</CHNTAB>
+    <TXTTAB>/BIC/TRES_USER</TXTTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>ZSD_DM</INFOAREA>
+    <LENG>000012</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

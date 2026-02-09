@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>0TAXJURCODE</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>TAXJURCODE</FIELDNM>
+    <CONTREL>3.3/01</CONTREL>
+    <OWNER>SAP</OWNER>
+    <TEXTSHORT>GCD: CódDomiciFiscal</TEXTSHORT>
+    <TEXTLONG>GCD: Código domicilio fiscal - Ubicación.p.cálculo impuestos</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>0TAXJURCODE</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000015</INTLEN>
+    <CONTTIMESTMP>20030721084251</CONTTIMESTMP>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000015</OUTPUTLEN>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <LENG>000015</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

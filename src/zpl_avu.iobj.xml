@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZPL_AVU</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZPL_AVU</FIELDNM>
+    <TEXTSHORT>PL: A.V.U. Decreto 3</TEXTSHORT>
+    <TEXTLONG>PL: A.V.U. Decreto 3182/19</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZPL_AVU</CHABASNM>
+    <NOVALFL>X</NOVALFL>
+    <NOLANGU>X</NOLANGU>
+    <DATATP>NUMC</DATATP>
+    <INTLEN>000005</INTLEN>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>V</SIDCONVERT>
+    <SIDMONFL>X</SIDMONFL>
+    <OUTPUTLEN>000005</OUTPUTLEN>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>ZPL_IA02</INFOAREA>
+    <LENG>000005</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

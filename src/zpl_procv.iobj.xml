@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZPL_PROCV</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZPL_PROCV</FIELDNM>
+    <TEXTSHORT>PL: Proceso Venta</TEXTSHORT>
+    <TEXTLONG>PL: Proceso Venta</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZPL_PROCV</CHABASNM>
+    <NOLANGU>X</NOLANGU>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000003</INTLEN>
+    <CONVEXIT>ALPHA</CONVEXIT>
+    <CHKTAB>/BIC/MZPL_PROCV</CHKTAB>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000003</OUTPUTLEN>
+    <CHNTAB>/BIC/PZPL_PROCV</CHNTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>ZPL_IA02</INFOAREA>
+    <LENG>000003</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>D</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
